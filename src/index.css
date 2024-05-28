@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Wayne';
+  src: url('/Wayne.otf') format('opentype');
+}
+
+body {
+  font-family: 'Wayne', sans-serif;
+}
