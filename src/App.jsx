@@ -6,10 +6,10 @@ function App() {
       ></div>
       <div className="absolute inset-0 bg-black opacity-50 z-20"></div>
       <div className="absolute z-40 flex-col flex items-center justify-center inset-0">
-      <h1 className=" font-black text-4xl md:text-5xl lg:text-7xl text-white">
+      <h1 className=" font-black text-3xl md:text-5xl lg:text-7xl text-white">
         North Fork Events
       </h1>
-      <span className="text-white text-2xl mt-5">COMING SOON</span>
+      <span className="text-white text-1xl md:text-2xl mt-5">COMING SOON</span>
       </div>
     </div>
   );
